@@ -5,5 +5,4 @@ Sales-Analysis-Powerbi dashboard provides Understanding / Insights Like :-
 2) Customer requirement
 3) Revenue
 4) Demanding products
-<br>
 We make a report by adding different KPI, chart, tables it helps to make decision for progit and loss and region wise products customer segments
