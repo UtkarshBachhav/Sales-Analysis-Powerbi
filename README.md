@@ -2,7 +2,6 @@
 Sales-Analysis-Powerbi dashboard provides Understanding / Insights Like :-
 <br>
 1) Sales performance
-<br>
 2) Customer requirement
 <br>
 3) Revenue
