@@ -59,7 +59,7 @@ This project was created for **data visualization practice** using dummy or real
 ## 📬 Let's Connect
 
 📧 utkarshbachhav08@gmail.com  
-💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/utkarsh-bachhav-24240b27b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/utkarsh-bachhav-24240b27b)
 
 ---
 
