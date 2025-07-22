@@ -1,3 +1,6 @@
+# 📊 Sales & Customer Analytics Dashboard – Power BI Project
+
+This project showcases an interactive Power BI dashboard that analyzes sales performance and customer behavior using real-world inspired data. It provides actionable insights into revenue trends, customer segmentation, product performance, and regional sales distribution — helping businesses make data-driven decisions with ease.
 
 ---
 
@@ -9,12 +12,6 @@
 | **DAX**     | Custom metrics & calculated fields |
 | **Power Query** | Data transformation & cleaning  |
 | **Excel / CSV**| Raw data source (assumed)       |
-
----
-
-## 📊 Dashboard Preview
-
-> (Add screenshots or GIFs of your dashboard here for better impact)
 
 ---
 
@@ -61,9 +58,8 @@ This project was created for **data visualization practice** using dummy or real
 
 ## 📬 Let's Connect
 
-📧 utkarsh.bachhav@example.com  
-💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-📊 [Portfolio](https://your-portfolio-link.com)
+📧 utkarshbachhav08@gmail.com  
+💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/utkarsh-bachhav-24240b27b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 
 ---
 
